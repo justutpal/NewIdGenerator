@@ -1,3 +1,4 @@
+let newpara = document.querySelector(".newpara");
 let phoneStart = document.querySelector(".phoneStart");
 let phoneSecond = document.querySelector(".phoneSecond");
 let startName = document.querySelector(".startName");
